@@ -2,5 +2,5 @@
 
 = Contributors =
 
-  *Arron Chapman, OneRoof Inc
-  *Stephane Rata, OneRoof Inc
+  * Arron Chapman, OneRoof Inc
+  * Stephane Rata, OneRoof Inc
