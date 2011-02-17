@@ -1,0 +1,6 @@
+#list of contributors to the project
+
+= Contributors =
+
+  *Arron Chapman, OneRoof Inc
+  *Stephane Rata, OneRoof Inc
