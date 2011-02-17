@@ -1,6 +1,8 @@
 #list of contributors to the project
 
 = Contributors =
+Contributors are listed in the order that they joined the project.
 
-  * Arron Chapman, OneRoof Inc
-  * Stephane Rata, OneRoof Inc
+|| *Name* || *Company* || *Email* ||
+|| Arron Chapman || OneRoof Inc ||  ||
+|| Stephane Rata || OneRoof Inc ||  ||
