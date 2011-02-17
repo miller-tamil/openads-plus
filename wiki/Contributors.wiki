@@ -1,7 +1,4 @@
-#list of contributors to the project
-
-= Contributors =
-Contributors are listed in the order that they joined the project.
+List of contributors to the project, in the order that they joined.
 
 || *Name* || *Company* || *Email* ||
 || Arron Chapman || OneRoof Inc ||  ||
