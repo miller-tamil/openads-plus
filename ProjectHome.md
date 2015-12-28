@@ -1,0 +1,1 @@
+Were going to revive Openads, it's successor OpenX is fundamentally flawed, and they don't seem to mind.  Were going to update, openads to bring it to PHP >=5.2, patch some security issues, and fix it's performance.
